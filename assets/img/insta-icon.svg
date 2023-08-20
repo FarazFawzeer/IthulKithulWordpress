@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="43" viewBox="0 0 42 43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2c150c;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #2c150c;
+        stroke-width: 0.5px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_308" data-name="Group 308" transform="translate(-0.097 0.216)">
+    <g id="instagram" transform="translate(13.048 13.235)">
+      <path id="Path_144" data-name="Path 144" class="cls-1" d="M36.906,23.88H26.71a2.955,2.955,0,0,0-2.951,2.951v10.2a2.955,2.955,0,0,0,2.951,2.952h10.2a2.955,2.955,0,0,0,2.952-2.952v-10.2A2.955,2.955,0,0,0,36.906,23.88Zm-5.1,13.348a5.3,5.3,0,1,1,5.3-5.3A5.305,5.305,0,0,1,31.808,37.228Zm5.47-9.5a1.254,1.254,0,1,1,1.254-1.254A1.255,1.255,0,0,1,37.278,27.725Z" transform="translate(-23.759 -23.88)"/>
+      <path id="Path_145" data-name="Path 145" class="cls-1" d="M39.909,36.971a3.06,3.06,0,1,0,3.06,3.059A3.064,3.064,0,0,0,39.909,36.971Z" transform="translate(-31.86 -31.982)"/>
+    </g>
+    <g id="Ellipse_13" data-name="Ellipse 13" class="cls-2" transform="translate(0.097 -0.216)">
+      <ellipse class="cls-3" cx="21" cy="21.5" rx="21" ry="21.5"/>
+      <ellipse class="cls-4" cx="21" cy="21.5" rx="20.75" ry="21.25"/>
+    </g>
+  </g>
+</svg>
